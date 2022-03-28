@@ -1,0 +1,16 @@
+<table class="table">
+    <thead class="thead-light">
+        <th scope="row">Name</th>
+        <th scope="row">Salary</th>
+        <th scope="row">Department</th>
+        <th scope="row">Manager</th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let e of employees">
+            <td scope="col">{{e.name}}</td>
+            <td scope="col">{{e.salary}}</td>
+            <td scope="col">{{e.department}}</td>
+            <td scope="col">{{e.manager_name}}</td>
+        </tr>
+    </tbody>
+</table>

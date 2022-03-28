@@ -1,0 +1,8 @@
+[
+    {"name":"Maggi","brand":"Nestle","price":50,"quantity":10},
+    {"name":"Lays","brand":"Lays","price":20,"quantity":50},
+    {"name":"Frooti","brand":"Coco cola","price":10,"quantity":100},
+    {"name":"Dairy Milk","brand":"Nestle","price":10,"quantity":40},
+    {"name":"Almonds","brand":"NA","price":450,"quantity":10}
+
+]

@@ -1,0 +1,16 @@
+<table class="table">
+    <thead class="thead-light">
+        <th scope="col">Name</th>
+        <th scope="col">Brand</th>
+        <th scope="col">Price</th>
+        <th scope="col">Quantity</th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let p of product">
+            <td scope="row">{{p.name}}</td>
+            <td scope="row">{{p.brand}}</td>
+            <td scope="row">{{p.price}}</td>
+            <td scope="row">{{p.quantity}}</td>
+        </tr>
+    </tbody>
+</table>

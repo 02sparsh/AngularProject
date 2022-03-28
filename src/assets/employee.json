@@ -1,0 +1,7 @@
+[
+    {"name":"Ankit","salary":500,"department":"civil","manager_name":"Akhilesh"},
+    {"name":"Ashutosh","salary":1500,"department":"Iot","manager_name":"Sanskar"},
+    {"name":"Ankita","salary":1500,"department":"Bao","manager_name":"Amrita"},
+    {"name":"Sushmita","salary":3500,"department":"Cloud","manager_name":"Naman"}
+
+]
